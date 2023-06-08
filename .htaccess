@@ -4,16 +4,16 @@ Custom Error Pages
 
 HTTP Reponse Status Codes
 
-500 / 500 internal server error
-502 / 502 bad gateway
-503 / 503 service temporarily unavailable
-504 / 504 bad gateway
-520 / 520 web server returns an unknown error
-521 / 521 web server is down
-522 / 522 connection timed out
-523 / 523 origin is unreachable
-524 / 524 a timeout occurred
-525 / 525 SSL handshake failed
-526 / 526 invalid SSL certificate
-527 / 527 Railgun Listener to origin error
-530 / 530 Error 530
+500 /500 internal server error.html
+502 /502 bad gateway.html
+503 /503 service temporarily unavailable.html
+504 /504 bad gateway.html
+520 /520 web server returns an unknown error.html
+521 /521 web server is down.html
+522 /522 connection timed out.html
+523 /523 origin is unreachable.html
+524 /524 a timeout occurred.html
+525 /525 SSL handshake failed.html
+526 /526 invalid SSL certificate.html
+527 /527 Railgun Listener to origin error.html
+530 /530 Error 530.html
