@@ -1,10 +1,4 @@
-Custom Error Pages
-
-.htaccess
-
-HTTP Reponse Status Codes
-
-404 /404 page not fount.html
+ErrorDocument 404 /404 page not fount.html
 
 500 /500 internal server error.html
 502 /502 bad gateway.html
